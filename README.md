@@ -1,4 +1,4 @@
-# FINAL PROJECT
+# MODULE 1 PROJECT
 
 This Solidity program is a Module 1  Project program that demonstrates the basic syntax and functionality of the Solidity programming language.
 ## Description
